@@ -101,6 +101,15 @@ margin-right: 76px;
     display: none;
 }
 
+.header-addres {
+    
+    font-style: normal;
+    display: flex;
+    margin-left: auto;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    display: none;
+}
 
 .header-list-item {
     color: #2E2F42;
